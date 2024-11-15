@@ -58,9 +58,9 @@ Password Master Pro - это современный генератор паро�
 
 ## Требования 📋
 
-- Python 3.7+
-- customtkinter
-- pyperclip
+- `Python 3.7+`
+- `customtkinter`
+- `pyperclip`
 
 ## Горячие клавиши ⌨️
 
